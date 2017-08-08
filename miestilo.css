@@ -1,0 +1,57 @@
+.logo{
+	width: 600px;
+}
+
+.social{
+	text-align: center;
+}
+
+.social ul{
+	list-style: none;
+
+}
+
+.social ul li a{
+	display: inline-block;
+	color: #fff;
+	background-color: #000;
+	padding:10px 40px;
+	text-decoration: none;
+
+}
+.social li {
+	display: inline;
+}
+
+.social ul li .icon-facebook2{background:#3B5998;}
+.social ul li .icon-twitter{background:#55ACEE;}
+.social ul li .icon-youtube{background:#c4302b;}
+
+.social ul li a:hover{
+	padding: 10px 60px;
+	background-color: black;
+}
+
+.logo{
+	width: 1050px;
+    height: 200px;
+}
+
+.lorena{
+	width: 100px;
+}
+
+.james{
+	width: 100px;
+}
+
+.historia{
+	text-align: center;
+}
+
+.personas{
+	margin-top: 50px;
+}
+
+
+
