@@ -2,16 +2,17 @@
 	width: 600px;
 }
 
-.social{
+#social{
 	text-align: center;
+	    padding-right: 50px;
 }
 
-.social ul{
+#social ul{
 	list-style: none;
 
 }
 
-.social ul li a{
+#social ul li a{
 	display: inline-block;
 	color: #fff;
 	background-color: #000;
@@ -19,15 +20,15 @@
 	text-decoration: none;
 
 }
-.social li {
+#social li {
 	display: inline;
 }
 
-.social ul li .icon-facebook2{background:#3B5998;}
-.social ul li .icon-twitter{background:#55ACEE;}
-.social ul li .icon-youtube{background:#c4302b;}
+#social ul li .icon-facebook2{background:#3B5998;}
+#social ul li .icon-twitter{background:#55ACEE;}
+#social ul li .icon-youtube{background:#c4302b;}
 
-.social ul li a:hover{
+#social ul li a:hover{
 	padding: 10px 60px;
 	background-color: black;
 }
@@ -51,6 +52,79 @@
 
 .personas{
 	margin-top: 50px;
+}
+
+.comentarios_jorge{
+	    padding-top: 70px;
+}
+
+.comenta_jorge{
+	padding-top: 43px;
+}
+
+.carousel-indicators li{
+	background-color: black;
+}
+
+#creando img{
+	padding-top: 30px;
+	padding-top: 15px;
+}
+
+#creando h3{
+	border-bottom-width: 10px;
+    padding-bottom: 10px;
+}
+
+#creando p{
+	padding-top: 20px;
+
+}
+
+#creando{
+	margin-top: 50px; 
+	padding-top: 20px; 
+	height: 400px;
+	margin-bottom: 300px;
+}
+
+#voluntarias p{
+padding-top: 10px;
+}
+
+#voluntarias h3{
+	margin-left: 20px;
+}
+#voluntarias{
+	margin-top: 50px; 
+	padding-top: 20px;
+}
+
+#manos p{
+	padding-top: 10px;
+}
+
+#manos h3{
+	    margin-left: 40px;
+}
+
+#redes h3{
+	text-align: center ;
+	margin-left: 40px;
+	color: #b58900;
+}
+#manos{
+	margin-top: 50px; 
+	padding-top: 20px;
+}
+
+legend{
+color: 	#b58900;
+}
+
+ h1,h2,h3,h4{
+	color: 	#b58900;
+
 }
 
 
